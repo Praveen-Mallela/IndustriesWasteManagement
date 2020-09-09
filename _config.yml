@@ -1,0 +1,8 @@
+title: Waste-management-portal
+description: A E-commerce portal for linking industries for selling and purchasing industrial recycled waste allover the world
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-cayman
+
+gems:
+  - jekyll-mentions
